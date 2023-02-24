@@ -4,7 +4,7 @@
 
 The vulnerability is in Razer Central service which does not check for symbolic links during login of user which leads to arbitrary file delete vulnerability and escalation of privileges.
 
-The Razer team allowed CVE filling but did not allow publishing any PoC.
+The Razer team allowed CVE filing but did not allow publishing any PoC.
 
 ![image](https://user-images.githubusercontent.com/44291883/221176206-2fee5c92-4627-4047-bb0d-150cfaf313e9.png)
 
