@@ -1,5 +1,9 @@
 # CVE
 
+### Update
+
+MITRE assigned CVE [CVE-2022-45697](https://cve.report/CVE-2022-45697) for this vulnerability.
+
 ### This repo contains description of vulnerability i have found in Razer Central before v7.8.0.381 
 
 The vulnerability is in Razer Central service which does not check for symbolic links during login of user which leads to arbitrary file delete vulnerability and escalation of privileges.
