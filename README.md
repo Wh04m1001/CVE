@@ -22,3 +22,4 @@ The Razer team allowed CVE filing but did not allow publishing any PoC.
 - 8/19/2022 - Inspective confirmed vulnerability
 - 11/15/2022 - Inspective informed me that fix is released
 - 11/17/2022 - Filing for CVE
+- 02/27/2023 - CVE assigned
